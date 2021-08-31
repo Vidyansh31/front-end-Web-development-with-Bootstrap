@@ -64,3 +64,9 @@ html{
 .carousel-caption {
     align-items: center;
 }
+
+#carouselButtons{
+    right:0;
+    bottom:0;
+    position: absolute;
+}
